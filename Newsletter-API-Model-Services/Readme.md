@@ -1,4 +1,4 @@
-# <Newsletter API, Model, and Services>
+# Newsletter API, Model, and Services
 
 ## Description
 
@@ -9,6 +9,12 @@
 
 - No extra installation is required to get this running. 
 
+## Built With
+
+- C#
+- .NET
+
+
 ## License
 
-- This is licensed under the MIT license.
+- Distributed under the MIT License.
